@@ -1,14 +1,16 @@
 package br.com.dio.desafio.dominio;
 
 public class Curso {
-
+//atributos
     private String titulo;
     private String descricao;
     private int cargaHoraria;
 
+    //construtor
     public Curso() {
     }
 
+    //getters e setters
     public String getTitulo() {
         return titulo;
     }

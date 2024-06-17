@@ -3,14 +3,16 @@ package br.com.dio.desafio.dominio;
 import java.time.LocalDate;
 
 public class Mentoria {
-
+//atributos
    private String titulo;
    private String descricao;
    private LocalDate data;
 
+   //construtor
     public Mentoria() {
     }
 
+    //getters e setters
     public String getTitulo() {
         return titulo;
     }
