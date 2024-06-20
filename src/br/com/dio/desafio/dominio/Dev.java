@@ -1,7 +1,5 @@
 package br.com.dio.desafio.dominio;
 
-import java.util.Optional;
-import java.util.Set;
 import java.util.*;
 
 public class Dev {
